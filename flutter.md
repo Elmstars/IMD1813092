@@ -26,7 +26,7 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质�
 
 ### 运行 flutter doctor
 
-`C:\src\flutter>flutter doctor`
+    `C:\src\flutter>flutter doctor`
 
 ## 编辑工具设定
 
@@ -35,7 +35,7 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质�
 - [Android Studio](https://developer.android.google.cn/studio)，3.0 或之后的版本. 
 同时, 你也可以使用 IntelliJ：
 - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows)， 2017.1 或之后的版本. 
-- [IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)IntelliJ ， 2017.1 或之后的版本. 
+- [IDEA Ultimate IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)， 2017.1 或之后的版本. 
 
 ### 安装 Flutter 和 Dart 插件
 
