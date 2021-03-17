@@ -32,13 +32,12 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质�
 
 ### 设置 Android 开发环境
 
-- Android Studio，3.0 或之后的版本 [Duck Duck Go](https://developer.android.google.cn/studio)
+- [Android Studio](https://developer.android.google.cn/studio)，3.0 或之后的版本. 
 同时, 你也可以使用 IntelliJ：
-- IntelliJ IDEA Community， 2017.1 或之后的版本 [Duck Duck Go](https://www.jetbrains.com/idea/download/#section=windows)
-- IntelliJ IDEA Ultimate， 2017.1 或之后的版本 [Duck Duck Go](https://www.jetbrains.com/idea/download/#section=windows)
+- [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows)， 2017.1 或之后的版本. 
+- [IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)IntelliJ ， 2017.1 或之后的版本. 
 
 ### 安装 Flutter 和 Dart 插件
 
 1. 打开插件偏好设置 (位于 File > Settings > Plugins)
-
 2. 选择 Marketplace (扩展商店)，选择 Flutter plugin 然后点击 Install (安装)。
